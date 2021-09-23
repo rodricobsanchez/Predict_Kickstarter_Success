@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 
-xgb_model = joblib.load('xgb_model')
+xgb_model = joblib.load('src/xgb_model')
 
 
 def init_model_input():

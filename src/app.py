@@ -12,8 +12,8 @@ def create_app():
     # app.config["SQLALCHEMY_TRACK_MODIFICATIONS"] = False
 
     with app.app_context():
-        from .model_input_funcs import xgb_model, init_model_input, generate_prediction
-        from .features_scrape import KickSoup
+        from src.model_input_funcs import xgb_model, init_model_input, generate_prediction
+        from src.features_scrape import KickSoup
 
 
    # ROOT ROUTE
