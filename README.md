@@ -6,9 +6,7 @@ You can find the deployed project at [Kickstarter Success](https://tokickornotto
 
 
 # Contributors
-| [Rodrico Sanchez](https://github.com/rodricobsanchez) | [Matt Clibanoff](https://github.com/mattclibanoff) |
-
-| [Carlos Trebbau](https://github.com/Carlos-Trebbau) | [Zachary Rock](https://github.com/ZacharyRock) |
+[Rodrico Sanchez](https://github.com/rodricobsanchez) | [Matt Clibanoff](https://github.com/mattclibanoff) | [Carlos Trebbau](https://github.com/Carlos-Trebbau) | [Zachary Rock](https://github.com/ZacharyRock)
 
 # Key Features
 - Used NLP and regression techniques to predict how successful a Kickstarter campaign will be based on a monetary goal and previous created Kickstarters 
