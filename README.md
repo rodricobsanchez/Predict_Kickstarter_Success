@@ -6,10 +6,12 @@ You can find the deployed project at [Kickstarter Success](https://tokickornotto
 
 
 # Contributors
-Data Science Team
 [Rodrico Sanchez](https://github.com/rodricobsanchez)
+
 [Matt Clibanoff](https://github.com/mattclibanoff)
+
 [Carlos Trebbau](https://github.com/Carlos-Trebbau)
+
 [Zachary Rock](https://github.com/ZacharyRock)
 
 # Key Features
