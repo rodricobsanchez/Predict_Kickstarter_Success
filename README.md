@@ -1,4 +1,4 @@
-# Kickstarer Success
+# Kickstarer Success!
 Using regression techniques, "Predict a Kickstarter Success" can help predict how successful a Kickstarter campaign will be based on the monetary goal, 
 description, campaign length, or categories.
 
